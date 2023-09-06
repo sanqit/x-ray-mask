@@ -10,11 +10,11 @@ h2 {
   width: 100%;
   background: url('https://raw.githubusercontent.com/sanqit/x-ray-mask/main/img/hand1.png')
     no-repeat;
-  background-size: 100% auto;
+  /* background-size: 100% auto; */
 }
 
 .x-ray {
-  width: 100%;
+  /* width: 100%; */
   margin: 0;
   mask-image: url('https://raw.githubusercontent.com/sanqit/x-ray-mask/main/img/hand1.png');
   -webkit-mask-image: url('https://raw.githubusercontent.com/sanqit/x-ray-mask/main/img/hand1.png');
